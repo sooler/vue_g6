@@ -1,0 +1,20 @@
+{
+  "name": "vue_g6",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@antv/g6": "^4.8.22",
+    "element-plus": "^2.3.14",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.3.4",
+    "babel-plugin-import": "^1.13.8",
+    "vite": "^4.4.9"
+  }
+}
